@@ -10,6 +10,7 @@
   font-size: 0.9rem;
   line-height: 1.5;
   padding: 2em;
+  border: 1px solid black;
 }
 
 .ql-editor p {
